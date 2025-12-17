@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "services": "What I Do",
+    "biography": "Biography",
+    "skills": "Skills",
+    "projects": "Projects",
+    "cv": "CV",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Full Stack Developer",
+    "title": "Loïc Noro",
+    "description": "Welcome to my portfolio! Discover my projects and my journey. Enjoy your visit!"
+  },
+  "services": {
+    "title": "What I Do",
+    "items": [
+      {
+        "title": "Full-Stack Development",
+        "desc": "Design and develop complete web applications, from database to user interface."
+      },
+      {
+        "title": "Database Management",
+        "desc": "Design, optimize, and maintain databases using SQL Server and MySQL."
+      },
+      {
+        "title": "Object-Oriented Programming",
+        "desc": "Build robust applications with Java, C#, and PHP following OOP best practices."
+      },
+      {
+        "title": "Responsive Web Design",
+        "desc": "Create adaptive and user-friendly interfaces that work on all devices."
+      },
+      {
+        "title": "Software Engineering",
+        "desc": "Apply agile methods, UML modeling, and project management to deliver quality software."
+      },
+      {
+        "title": "Cybersecurity Basics",
+        "desc": "Implement secure coding practices and protect applications from common threats."
+      }
+    ]
+  },
+  "biography": {
+    "title": "My Biography",
+    "desc": "I am Loïc Noro, a passionate IT student currently in the Pre-MSc program at Epitech. After a BTS SIO (SLAM), I strengthened my skills in software development, web technologies, and project management. I enjoy working on both front-end and back-end, with an interest in object-oriented programming, databases, and software engineering. I also completed a two-month Erasmus internship in Malta, improving my adaptability and international professional experience.",
+    "info": {
+      "name": "Name",
+      "email": "Email",
+      "birthdate": "Birthdate",
+      "phone": "Phone",
+      "education": "Education",
+      "focus": "Current Focus"
+    },
+    "values": {
+      "name": "Loïc Noro",
+      "email": "loic.noro@epitech.eu",
+      "birthdate": "17 December 2004",
+      "phone": "+33 6 20 40 16 70",
+      "education": "BTS SIO (SLAM) – Pre-MSc Student at Epitech",
+      "focus": "Software Development & Web Engineering"
+    }
+  },
+  "skills": {
+    "title": "My Skills"
+  },
+  "portfolio": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "E-commerce Website",
+        "desc": "Developed a test website to sell IT products and services, connected to a database."
+      },
+      {
+        "title": "Jamondeyra School Website",
+        "desc": "Developed an online website for Jamondeyra school."
+      },
+      {
+        "title": "Deezer App in C#",
+        "desc": "Created a desktop application in C# using the Deezer API."
+      },
+      {
+        "title": "Hangman Game in Python",
+        "desc": "Developed a graphical hangman game in Python."
+      },
+      {
+        "title": "HandsOn System Showcase Website",
+        "desc": "Two-month Erasmus project: created a showcase website for HandsOn System."
+      },
+      {
+        "title": "C# Admin Website",
+        "desc": "Developed an admin website connected to a C# database."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Me",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "button": "Send"
+    }
+  },
+  "cv": {
+    "name": "Loïc NORO",
+    "title": "Master’s Student – Developer",
+    "contact": {
+      "header": "Contact",
+      "address": "4 rue de l'Artois 34500\nBéziers, France",
+      "email": "loico34noro@gmail.com",
+      "phone": "06 20 41 16 70",
+      "license": "Driving License"
+    },
+    "softwareSkills": {
+      "header": "Software Skills",
+      "items": [
+        "Visual Studio, NetBeans, StarUML",
+        "SQL Server, MySQL",
+        "Git, GitHub"
+      ]
+    },
+    "programmingLanguages": {
+      "header": "Programming Languages",
+      "items": ["PHP", "HTML, CSS", "C#", "Python", "JavaScript"]
+    },
+    "languages": {
+      "header": "Languages",
+      "items": [
+        { "name": "French", "level": "Native" },
+        { "name": "English", "level": "C1" }
+      ]
+    },
+    "downloadCV": {
+      "header": "Download CV",
+      "button": "Download PDF"
+    },
+    "objective": {
+      "header": "Objective",
+      "text": "Motivated and rigorous student, currently in the first year of a Master’s degree at Epitech, with solid programming foundations. I am looking for a work-study position to put my software development skills into practice and actively contribute to my Master’s success."
+    },
+    "strengths": {
+      "header": "Professional Strengths",
+      "items": [
+        "Fast learner, able to adapt to new technologies and challenges",
+        "Strong team spirit with excellent collaboration skills",
+        "Creative problem solver, passionate about coding and innovation"
+      ]
+    },
+    "experience": {
+      "header": "Experience",
+      "items": [
+        {
+          "date": "2025",
+          "title": "2-Month Internship in Malta (via Erasmus+)",
+          "company": "HandsOn Systems",
+          "tasks": [
+            "International professional experience in a company specialized in management software development",
+            "Participation in business-oriented programming projects (fleet management, GPS tracking, etc.)",
+            "Improved technical English and communication skills in an international professional environment",
+            "Adaptability, autonomy, and team spirit in a multicultural environment"
+          ]
+        },
+        {
+          "date": "2024",
+          "title": "8-Week Internship",
+          "company": "École Jamondeyra",
+          "tasks": [
+            "Created a website for a school",
+            "Version control and teamwork",
+            "Website deployment and hosting"
+          ]
+        },
+        {
+          "date": "2022",
+          "title": "6-Week Internship",
+          "company": "Boost Informatique",
+          "tasks": [
+            "IT troubleshooting",
+            "Operating system updates",
+            "Computer hardware repair"
+          ]
+        },
+        {
+          "date": "2021",
+          "title": "6-Week Internship",
+          "company": "Rémy Informatique",
+          "tasks": [
+            "Network-related tasks: router configuration, customer support",
+            "Gained knowledge on mobile applications and device components"
+          ]
+        },
+        {
+          "date": "2020",
+          "title": "4-Week Internship",
+          "company": "FGCE",
+          "tasks": [
+            "Introduction to home automation, alarm systems, and automation technologies"
+          ]
+        }
+      ]
+    },
+    "education": {
+      "header": "Education",
+      "items": [
+        {
+          "date": "2025 - 2028",
+          "title": "Master of Science - Epitech",
+          "company": "Epitech, Montpellier",
+          "description": "3-year Master’s program"
+        },
+        {
+          "date": "2023 - 2025",
+          "title": "BTS IT Services for Organizations (SIO), SLAM option",
+          "company": "Lycée Marc Bloch, Sérignan"
+        },
+        {
+          "date": "2020 - 2023",
+          "title": "Baccalaureate in Digital Systems: ARED",
+          "company": "Lycée Sacré-Cœur, Béziers",
+          "description": "Graduated with honors\nAudio-visual, Networks and Home Equipment"
+        },
+        {
+          "date": "2019",
+          "title": "National Diploma (Brevet)",
+          "company": "Collège Fénelon"
+        }
+      ]
+    }
+  }
+}

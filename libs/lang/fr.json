@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "services": "Ce que je fais",
+    "biography": "Biographie",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "cv": "CV",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Développeur Full Stack",
+    "title": "Loïc Noro",
+    "description": "Bienvenue sur mon portfolio ! Découvrez mes projets et mon parcours. Bonne visite !"
+  },
+  "services": {
+    "title": "Ce que je fais",
+    "items": [
+      {
+        "title": "Développement Full-Stack",
+        "desc": "Conception et développement d'applications web complètes, de la base de données à l'interface utilisateur."
+      },
+      {
+        "title": "Gestion de bases de données",
+        "desc": "Conception, optimisation et maintenance de bases de données avec SQL Server et MySQL."
+      },
+      {
+        "title": "Programmation Orientée Objet",
+        "desc": "Création d'applications robustes avec Java, C# et PHP en suivant les bonnes pratiques OOP."
+      },
+      {
+        "title": "Design Web Responsive",
+        "desc": "Création d'interfaces adaptatives et conviviales, fonctionnant sur tous les appareils."
+      },
+      {
+        "title": "Ingénierie Logicielle",
+        "desc": "Application des méthodes agiles, modélisation UML et gestion de projet pour livrer un logiciel de qualité."
+      },
+      {
+        "title": "Bases en Cybersécurité",
+        "desc": "Mise en œuvre de pratiques de codage sécurisées et protection des applications contre les menaces courantes."
+      }
+    ]
+  },
+  "biography": {
+    "title": "Ma Biographie",
+    "desc": "Je suis Loïc Noro, étudiant passionné en informatique, actuellement en programme Pré-MSc à Epitech. Après un BTS SIO (SLAM), j'ai renforcé mes compétences en développement logiciel, technologies web et gestion de projet. J'aime travailler sur le front-end et le back-end, avec un intérêt pour la programmation orientée objet, les bases de données et l'ingénierie logicielle. J'ai également effectué un stage Erasmus de deux mois à Malte, développant mon adaptabilité et mon expérience professionnelle internationale.",
+    "info": {
+      "name": "Nom",
+      "email": "Email",
+      "birthdate": "Date de naissance",
+      "phone": "Téléphone",
+      "education": "Formation",
+      "focus": "Domaine actuel"
+    },
+    "values": {
+      "name": "Loïc Noro",
+      "email": "loic.noro@epitech.eu",
+      "birthdate": "17 décembre 2004",
+      "phone": "+33 6 20 40 16 70",
+      "education": "BTS SIO (SLAM) – Étudiant Pré-MSc à Epitech",
+      "focus": "Développement logiciel & Ingénierie Web"
+    }
+  },
+  "skills": {
+    "title": "Mes Compétences"
+  },
+  "portfolio": {
+    "title": "Projets",
+    "projects": [
+      {
+        "title": "Site e-commerce",
+        "desc": "Développement d'un site de test pour vendre des produits et services informatiques, connecté à une base de données."
+      },
+      {
+        "title": "Site de l'école Jamondeyra",
+        "desc": "Développement d'un site en ligne pour l'école Jamondeyra."
+      },
+      {
+        "title": "Application Deezer C#",
+        "desc": "Création d'une application desktop en C# utilisant l'API Deezer."
+      },
+      {
+        "title": "Jeu du Pendu en Python",
+        "desc": "Développement d'un jeu graphique du pendu en Python."
+      },
+      {
+        "title": "Site vitrine HandsOn System",
+        "desc": "Projet Erasmus de deux mois : création d'un site vitrine pour HandsOn System."
+      },
+      {
+        "title": "Site d'administration C#",
+        "desc": "Développement d'un site d'administration connecté à une base C#."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "button": "Envoyer"
+    }
+  },
+  "cv": {
+    "name": "Loïc NORO",
+    "title": "Étudiant en Master – Développeur",
+    "contact": {
+      "header": "Contact",
+      "address": "4 rue de l'Artois 34500\nBéziers, France",
+      "email": "loico34noro@gmail.com",
+      "phone": "06 20 41 16 70",
+      "license": "Permis de conduire"
+    },
+    "softwareSkills": {
+      "header": "Compétences logicielles",
+      "items": [
+        "Visual Studio, NetBeans, StarUML",
+        "SQL Server, MySQL",
+        "Git, GitHub"
+      ]
+    },
+    "programmingLanguages": {
+      "header": "Langages de programmation",
+      "items": ["PHP", "HTML, CSS", "C#", "Python", "JavaScript"]
+    },
+    "languages": {
+      "header": "Langues",
+      "items": [
+        { "name": "Français", "level": "Langue maternelle" },
+        { "name": "Anglais", "level": "C1" }
+      ]
+    },
+    "downloadCV": {
+      "header": "Télécharger le CV",
+      "button": "Télécharger PDF"
+    },
+    "objective": {
+      "header": "Objectif",
+      "text": "Étudiant motivé et rigoureux, actuellement en première année de Master à Epitech, avec de solides bases en programmation. Je cherche un poste en alternance pour mettre en pratique mes compétences en développement logiciel et contribuer activement à la réussite de mon Master."
+    },
+    "strengths": {
+      "header": "Points forts professionnels",
+      "items": [
+        "Apprentissage rapide, capable de s'adapter aux nouvelles technologies et aux défis",
+        "Esprit d'équipe fort avec d'excellentes compétences en collaboration",
+        "Créatif dans la résolution de problèmes, passionné par le codage et l'innovation"
+      ]
+    },
+    "experience": {
+      "header": "Expérience",
+      "items": [
+        {
+          "date": "2025",
+          "title": "Stage de 2 mois à Malte (via Erasmus+)",
+          "company": "HandsOn Systems",
+          "tasks": [
+            "Expérience professionnelle internationale dans une entreprise spécialisée en développement de logiciels de gestion",
+            "Participation à des projets de programmation orientés business (gestion de flotte, suivi GPS, etc.)",
+            "Amélioration de mon anglais technique et de mes compétences en communication dans un environnement professionnel international",
+            "Adaptabilité, autonomie et esprit d'équipe dans un environnement multiculturel"
+          ]
+        },
+        {
+          "date": "2024",
+          "title": "Stage de 8 semaines",
+          "company": "École Jamondeyra",
+          "tasks": [
+            "Création d'un site web pour une école",
+            "Gestion de version et travail en équipe",
+            "Déploiement et hébergement du site"
+          ]
+        },
+        {
+          "date": "2022",
+          "title": "Stage de 6 semaines",
+          "company": "Boost Informatique",
+          "tasks": [
+            "Dépannage informatique",
+            "Mises à jour des systèmes d'exploitation",
+            "Réparation du matériel informatique"
+          ]
+        },
+        {
+          "date": "2021",
+          "title": "Stage de 6 semaines",
+          "company": "Rémy Informatique",
+          "tasks": [
+            "Tâches liées au réseau : configuration de routeur, support client",
+            "Acquisition de connaissances sur les applications mobiles et composants des appareils"
+          ]
+        },
+        {
+          "date": "2020",
+          "title": "Stage de 4 semaines",
+          "company": "FGCE",
+          "tasks": [
+            "Introduction à la domotique, aux systèmes d'alarme et aux technologies d'automatisation"
+          ]
+        }
+      ]
+    },
+    "education": {
+      "header": "Formation",
+      "items": [
+        {
+          "date": "2025 - 2028",
+          "title": "Master of Science - Epitech",
+          "company": "Epitech, Montpellier",
+          "description": "Programme Master sur 3 ans"
+        },
+        {
+          "date": "2023 - 2025",
+          "title": "BTS Services Informatiques aux Organisations (SIO), option SLAM",
+          "company": "Lycée Marc Bloch, Sérignan"
+        },
+        {
+          "date": "2020 - 2023",
+          "title": "Baccalauréat en Systèmes Numériques : ARED",
+          "company": "Lycée Sacré-Cœur, Béziers",
+          "description": "Diplômé avec mention\nAudiovisuel, Réseaux et Équipements Domestiques"
+        },
+        {
+          "date": "2019",
+          "title": "Diplôme National (Brevet)",
+          "company": "Collège Fénelon"
+        }
+      ]
+    }
+  }
+}
